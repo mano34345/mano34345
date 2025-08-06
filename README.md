@@ -13,7 +13,7 @@
 - 🚀 Web Developer with a strong focus on **frontend & MERN stack projects**
 - 🌱 Currently learning **UI/UX Design, MongoDB, Node.js & Express**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Git, Firebase**
-- 📫 Reach me at: **imanarshad.dev@gmail.com**
+- 📫 Reach me at: **imanarshad247@gmail.com**
 - 🌐 Portfolio: [Coming Soon](#)
 - 📄 [Resume](#) (Upload your resume and add the link here)
 
@@ -74,7 +74,7 @@
 <p align="center">
   <a href="mailto:imanarshad247@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNfq7is1IQOiZXtwqCAGDfQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/imanarshad"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/mano34345?tab=overview&from=2025-07-01&to=2025-07-31"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
