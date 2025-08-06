@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Final Year Software Engineering student (7th Semester)
-- 🌱 Currently learning **MERN Stack, TypeScript, and UI/UX Design**
+- 🌱 Currently learning **MERN Stack,  UI/UX Design**
 - 🚀 Building real-world projects to enhance my development skills
 - 🧠 Interested in **Web Development, Open Source, AI, and Product Design**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Git, Firebase**
