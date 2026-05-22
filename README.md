@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iman Arshad</h1>
-<h3 align="center">A Passionate Software Engineering Student & Web Developer</h3>
+<h3 align="center">Software Engineering Graduate | MERN Stack & Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&lines=Web+Developer+%7C+React.js+%7C+JavaScript+%7C+CSS+Enthusiast;7th+Semester+Software+Engineering+Student;Always+Learning+%7C+Building+%7C+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&lines=Web+Developer+%7C+React.js+%7C+JavaScript+%7C+MERN+Stack;Software+Engineering+Graduate;Always+Learning+%7C+Building+%7C+Improving" />
 </p>
 
 ---
