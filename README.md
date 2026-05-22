@@ -56,15 +56,6 @@
 - 🗺️ **Local Transport Route Finder** – MERN Stack Web Application
 - 🌐 Developing my **Personal Portfolio Website**
 - 🛒 Built multiple **Frontend & JavaScript Projects** including E-commerce & Quiz Applications
-- 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imanarshad&show_icons=true&theme=react" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanarshad&layout=compact&theme=react" height="170" />
-</p>
 
 ---
 
