@@ -9,13 +9,13 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 7th Semester Software Engineering Student at **Riphah International University**
+- 🎓 Completed **BS Software Engineering** from **Riphah International University**
 - 🚀 Web Developer with a strong focus on **frontend & MERN stack projects**
-- 🌱 Currently learning **UI/UX Design, MongoDB, Node.js & Express**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Git, Firebase**
+- 🌱 Currently learning **Advanced React, UI/UX Design & Backend Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me at: **imanarshad247@gmail.com**
 - 🌐 Portfolio: [Coming Soon](#)
-- 📄 [Resume](#) (Upload your resume and add the link here)
+- 📄 [Resume](https://canva.link/cwjdyqmasocv8lp) (Upload your resume and add the link here)
 
 ---
 
