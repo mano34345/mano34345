@@ -15,7 +15,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB**
 - 📫 Reach me at: **imanarshad247@gmail.com**
 - 🌐 Portfolio: [Coming Soon](#)
-- 📄 [Resume](https://canva.link/cwjdyqmasocv8lp) (Upload your resume and add the link here)
+- 📄 [Resume](https://canva.link/cwjdyqmasocv8lp) 
 
 ---
 
@@ -51,13 +51,13 @@
 - 🗂️ [**Coursera – Introduction to NoSQL Databases**](https://www.coursera.org/account/accomplishments/certificate/JQAGBGC4WRKH)
 -  🎨 [**Google (via Coursera) – Create High‑Fidelity Designs and Prototypes in Figma**](https://www.coursera.org/account/accomplishments/certificate/CJEDRDWLCSAL)
 ---
+### 💼 Experience & Projects
 
-### 💼 Currently Working On
-
-- 💻 **Volpea Solutions** – Frontend Development Internship  
-- 🗺️ **Local Transport Route Finder** – MERN Stack Web App  
-- 🌐 Building my **Personal Portfolio Website**
-
+- 💻 **Frontend Development Intern at Volpea Solutions**
+- 🗺️ **Local Transport Route Finder** – MERN Stack Web Application
+- 🌐 Developing my **Personal Portfolio Website**
+- 🛒 Built multiple **Frontend & JavaScript Projects** including E-commerce & Quiz Applications
+- 
 ---
 
 ### 📊 GitHub Stats
